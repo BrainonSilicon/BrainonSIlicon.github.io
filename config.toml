@@ -1,0 +1,9 @@
+baseURL = "https://BrainonSIlicon.github.io/"
+languageCode = "en-us"
+theme = "anatole"
+enableEmoji = true
+
+[params] # theme specific configuration
+title = "Thoughts on Thoughts"
+author = "BrainonSilicon"
+description = "Just a brain. With a computer. Doing the big think"
